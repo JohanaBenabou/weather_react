@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  padding: 20px;
+  display: block;
+}
+
+div {
+  display: block;
+}
+
+.button {
+  background-color: #0a53be;
+  color: white;
+  border-color: #0a53be;
+  border: 1px solid #0a53be;
+  border-radius: 0.375rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px;
+  width: 80px;
+}
+
+.city {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: white;
+  border: 1px solid #ced4da;
+  border-radius: 0.375rem;
+  font-family: inherit;
+  width: 260px;
+}
+.Search {
+  display: block;
+  text-align: left;
+  padding-inline-start: 20px;
+}
+
+li {
+  padding-inline-start: 15px;
+}
+
+h1 {
+  text-align: left;
+  padding-inline-start: 20px;
+}
